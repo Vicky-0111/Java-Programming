@@ -18,35 +18,58 @@ Java is a powerful, object-oriented programming language widely used in software
 ---
 
 📚 Topics Covered
+
 ☕ Java Basics
+
    ☕ Introduction to Java
+   
    ⚙️ JDK, JRE, JVM
+   
    🔢 Data Types and Variables
+   
    ➕ Operators
+   
    🔀 Control Statements (if, switch)
+   
    🔁 Loops (for, while, do-while)
 
+
 📊 Data Handling
+
    📊 Arrays
+   
    🔤 Strings
 
+
 🏗️ Object-Oriented Programming (OOP)
+
    🧱 Class and Object
+   
    🏗️ Constructor
+   
    🧬 Inheritance
+   
    🔄 Polymorphism
+   
    🧩 Abstraction
+   
    🔒 Encapsulation
 
+
 ⚠️ Advanced Core Concepts
+
    ⚠️ Exception Handling
+   
    📦 Collections Framework
+   
    📂 File Handling
+   
    🧵 Multithreading (Basic)
 
 --- 
 
 📂 Project Structure
+
 Java-Programming/
 │
 ├── Basics/
@@ -77,27 +100,39 @@ Java-Programming/
 ---
 
 ⚙️ Requirements
+
    ☕ Java JDK 8 or above
+   
    💻 VS Code / IntelliJ IDEA / Eclipse
+   
    🖥️ Windows / Linux / MacOS
 
 ---
 
 🎯 Purpose of This Repository
+
    🎓 Academic learning
+   
    💼 Interview preparation
+   
    🧠 Strengthen programming logic
+   
    📚 Revision of core Java concepts
 
 ---
 
 🚀 Future Enhancements
+
    🔥 Add Advanced Java topics
+   
    🗄️ Add JDBC examples
+   
    🌱 Add Spring Boot basics
 
 ---
 
 👨‍💻 Author
+
    Vicky Kumar  
+   
    GitHub: https://github.com/Vicky-0111
