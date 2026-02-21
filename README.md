@@ -2,6 +2,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 🚀 Java Programming – Core & Basic Concepts
+
 📘 This repository contains Core and Basic Java programming concepts with examples and practice programs.
     It is designed for beginners and intermediate learners who want to build strong Java fundamentals.
 
@@ -73,18 +74,27 @@ Java is a powerful, object-oriented programming language widely used in software
 Java-Programming/
 │
 ├── Basics/
+
 │   ├── Variables.java
+
 │   ├── Operators.java
+
 │   ├── Loops.java
 │
 ├── OOP/
+
 │   ├── ClassObject.java
+
 │   ├── Inheritance.java
+
 │   ├── Polymorphism.java
 │
+
 ├── ExceptionHandling/
+
 │
 ├── Collections/
+
 │
 └── Multithreading/
 
